@@ -1,3 +1,5 @@
+*This repository was copied from AccessibilityPlus to be transformed into and used as a starting guide for learning Omeka plugin development*
+
 # About AccessibilityPlus
 
 [Omeka](https://omeka.org/) is a content management system that serves as open-source web publishing platforms for sharing digital collections and creating media-rich online exhibits. It comes with an [accessibility statement](https://omeka.org/classic/docs/GettingStarted/Accessibility_Statement/), but there are still weaknesses in how it addresses accessibility.
